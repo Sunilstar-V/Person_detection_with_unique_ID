@@ -1,0 +1,3 @@
+pip install ultralytics
+pip install depp_sort_realtime
+pip install opencv-python
